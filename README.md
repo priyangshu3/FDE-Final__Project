@@ -1,4 +1,5 @@
-Road Traffic Accident Prediction System (India)
+Road Traffic Accident Prediction System (India) 
+
 This project focuses on building a complete data engineering pipeline for analyzing and predicting the severity of road accidents in India. It was developed as part of the Fundamentals of Data Engineering course at RV University and implemented entirely on Google Colab. The project demonstrates how structured data engineering workflows can prepare clean and reliable data for effective analysis and prediction.
 
 The pipeline starts with data collection, where historical accident records are gathered from open datasets and official sources. These include details such as weather conditions, road type, vehicle type, time of day, and accident outcomes. The collected data is then ingested and transformed into a structured format suitable for further processing and analysis.
